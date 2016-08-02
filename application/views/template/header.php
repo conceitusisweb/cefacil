@@ -19,7 +19,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     </head>
     <body>
         <div id="container" style="margin-top: 60px;">
-            <h1>Bem vindo ao CE Fácil!</h1>
             <nav class="navbar navbar-inverse navbar-fixed-top">
                 <div class="container-fluid">
                     <div class="navbar-header">
